@@ -1,10 +1,1 @@
-
-
-User-agent: Googlebot
-Disallow:
-
-User-agent: AdsBot-Google
-Disallow:
-
-User-agent: Googlebot-Image
-Disallow:
+Sitemap: https://gotyk-tlumaczenia.github.io/sitemap.xml
